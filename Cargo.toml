@@ -1,0 +1,6 @@
+[package]
+name = "linux_interface"
+version = "0.1.0"
+authors = ["jmcelwain <jmcelwain@gmail.com>"]
+
+[dependencies]
